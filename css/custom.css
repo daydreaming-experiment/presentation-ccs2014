@@ -1,0 +1,19 @@
+.reveal span.name {
+  color: #800;
+  text-shadow: 1px 1px 1px black;
+}
+
+.reveal img.screenshot {
+  margin: 30px 50px;
+}
+
+.reveal div.span-half {
+  float: left;
+  width: 49%;
+}
+
+.reveal div.vr {
+  float: left;
+  border-left: 2px solid #eee8d5;
+  min-height: 350px;
+}
