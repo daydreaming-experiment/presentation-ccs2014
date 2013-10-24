@@ -9,11 +9,12 @@
 
 .reveal div.span-half {
   float: left;
-  width: 49%;
+  width: 45%;
 }
 
 .reveal div.vr {
   float: left;
   border-left: 2px solid #eee8d5;
   min-height: 350px;
+  margin: 0px 30px;
 }
