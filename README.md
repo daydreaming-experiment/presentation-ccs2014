@@ -1,3 +1,3 @@
-# Daydreaming presentation
+# Daydreaming presentation at Brainhack 2013
 
-Build with [reveal.js](https://github.com/hakimel/reveal.js).
+Built with [reveal.js](https://github.com/hakimel/reveal.js).
