@@ -1,6 +1,10 @@
 .reveal span.name {
-  color: #800;
+  color: #e00;
   text-shadow: 1px 1px 1px black;
+}
+
+.reveal p.big {
+  font-size: 80px;
 }
 
 .reveal img.screenshot {
